@@ -6,8 +6,8 @@ Optimising the lift efficiency problem using python data structures and algorith
 This is represented using the python tkinter interface.
 
 The project consists of 2 algorithms:
-- The mechanical version: unoptimised
-- The effcient version: optimised
+- The Mechanical version: unoptimised
+- The Control version: optimised
 
 ## Setup
 
